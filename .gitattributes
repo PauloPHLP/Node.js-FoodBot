@@ -1,0 +1,2 @@
+*.js linguist-language=Node
+*.json linguist-language=Node
